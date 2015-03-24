@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="FCE" tests="0" assertions="0" failures="0" errors="0" time="0.000000">
+        <testsuite name="IndexControllerTest" file="src/bootstrap.php" tests="0" assertions="0" failures="0" errors="0" time="0.000000"/>
+    </testsuite>
+</testsuites>
